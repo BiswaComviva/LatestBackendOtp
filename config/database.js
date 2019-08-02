@@ -8,7 +8,7 @@ const conn = mysql.createConnection({
   user: 'b4aa30cfec8d83',
   password:'a48a193c' ,
   database: 'heroku_058ddfaa6496caf',
-  port: 3307
+ 
 })
 
 
